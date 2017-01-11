@@ -1,0 +1,12 @@
+{
+  "name": "relative-path",
+  "version": "1.0.0",
+  "description": "__dirname usefullness",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js && node path/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zacaria",
+  "license": "MIT"
+}
